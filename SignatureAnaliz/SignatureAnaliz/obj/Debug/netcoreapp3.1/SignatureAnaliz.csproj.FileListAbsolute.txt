@@ -1,0 +1,13 @@
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\bin\Debug\netcoreapp3.1\SignatureAnaliz.exe
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\bin\Debug\netcoreapp3.1\SignatureAnaliz.deps.json
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\bin\Debug\netcoreapp3.1\SignatureAnaliz.runtimeconfig.json
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\bin\Debug\netcoreapp3.1\SignatureAnaliz.runtimeconfig.dev.json
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\bin\Debug\netcoreapp3.1\SignatureAnaliz.dll
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\bin\Debug\netcoreapp3.1\SignatureAnaliz.pdb
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\obj\Debug\netcoreapp3.1\SignatureAnaliz.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\obj\Debug\netcoreapp3.1\SignatureAnaliz.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\obj\Debug\netcoreapp3.1\SignatureAnaliz.AssemblyInfo.cs
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\obj\Debug\netcoreapp3.1\SignatureAnaliz.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\obj\Debug\netcoreapp3.1\SignatureAnaliz.dll
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\obj\Debug\netcoreapp3.1\SignatureAnaliz.pdb
+C:\Users\Igor\source\repos\SignatureAnaliz\SignatureAnaliz\obj\Debug\netcoreapp3.1\SignatureAnaliz.genruntimeconfig.cache
